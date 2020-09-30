@@ -1,0 +1,22 @@
+{
+  "name": "sangbu_sangjo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "backend": "nodemon -r dotenv/config server/app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
