@@ -1,0 +1,3 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: 지환님 욕하는 건 안됨
